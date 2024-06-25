@@ -1,4 +1,4 @@
-# loonarspoon
+<img width="1024" alt="image" src="https://github.com/hablethedev/loonarspoon/assets/168993759/04b15120-1ed7-41da-86a6-82aed7b890ec"># loonarspoon
 
 ![Comes with an amazing logo!](loogoo.png)
 
@@ -52,4 +52,43 @@ Or sad.
 
 OR LIKE EVERYTHING ******* SUCKS AND YOU JUST WANT TO CODE BUT YOUR ***** FRIENDS KEEP ON TEXTING YOU!!!
 
-* is there for everything.
+The * is there for everything.
+
+## Variables
+
+Managing variables is silly. What is const and var? But how do variables pop out of nowhere but not work in functions? And what the hell is a bigint and why can't I use a microint instead?
+
+In Loonar, it's simple. Have a long, long, long, long, long, long, long, long look.
+
+
+```java
+var idiot != "you!"
+var smart_person == "you!"
+```
+
+> "Wait but wait but how the == and the != but the wait but the with the you but the string and the var with the" - Probably you, right now
+
+Let's break it down!
+!= means it is not equal to. So, `var hello != "humans"` and then running `does hello == "world"` would output true. But `does hello == "mars"` would also equal true.
+
+So... == is assignment like normal?
+Yes. What made you think this was any diff-
+
+SIKE!
+
+It's like normal, technically. But, you can also...
+
+```java
+var what_youre_saying_rn == "what in","the fresh hell","is this",1,"stupid language?"
+```
+
+And all of a sudden...
+ ```java
+var wysrn == what_youre_saying_rn
+does wsyrn == "is this" // true
+does wsyrn == "the fresh hell" // true
+does wsyrn == 1 // true
+does wsyrn == "1" // true
+```
+
+Glorious, glorious multi definitions.
