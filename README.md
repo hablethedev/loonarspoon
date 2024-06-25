@@ -20,3 +20,36 @@ here you go!
 now that's out the way...
 
 # wait, how do i use loonarspoon
+
+As a wise human once said!
+> You don't.
+
+But here...
+> You do!
+
+## Printing
+
+hello, world! wait... how do i say that in loonar?
+```java
+print("hello, world!")*
+```
+
+wait, what?! *!?
+why is there a *!?!?!
+what witchery is this?!?
+
+## why *
+
+For centuries, there has been one main battle between programming languages: do you end with a ;? A ,? A
+
+?
+
+We aim to solve this problem by simply beating all the rest. Introducing *.
+
+For when you're feeling happy.
+
+Or sad.
+
+OR LIKE EVERYTHING ******* SUCKS AND YOU JUST WANT TO CODE BUT YOUR ***** FRIENDS KEEP ON TEXTING YOU!!!
+
+* is there for everything.
