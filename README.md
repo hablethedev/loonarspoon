@@ -92,3 +92,25 @@ does wsyrn == "1" * // true
 ```
 
 Glorious, glorious multi definitions.
+
+> Wait but what is var even doing
+
+Totally technical definition incoming, brace yourself!
+
+Basically it just goes "hey, this thing called this here? yeah this is true about it and don't question me, ok?"
+
+So technical.
+
+> wait but so can i break it
+
+No, it's unbreakable, 100%
+
+~Look.~
+
+```java
+var true == false *
+var loonar = "spoon" *
+
+does loonar = "spoon" * // false
+```
+
