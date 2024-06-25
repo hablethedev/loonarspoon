@@ -1,2 +1,3 @@
 # loonarspoon
-the *actually* perfect language (sorry dreamberd!)
+
+[Comes with an amazing logo!](loogoo.png)
