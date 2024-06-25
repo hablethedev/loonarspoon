@@ -1,4 +1,4 @@
-<img width="1024" alt="image" src="https://github.com/hablethedev/loonarspoon/assets/168993759/04b15120-1ed7-41da-86a6-82aed7b890ec"># loonarspoon
+># loonarspoon
 
 ![Comes with an amazing logo!](loogoo.png)
 
