@@ -62,14 +62,14 @@ In Loonar, it's simple. Have a long, long, long, long, long, long, long, long lo
 
 
 ```java
-var idiot != "you!"
-var smart_person == "you!"
+var idiot != "you!" *
+var smart_person == "you!" *
 ```
 
 > "Wait but wait but how the == and the != but the wait but the with the you but the string and the var with the" - Probably you, right now
 
 Let's break it down!
-!= means it is not equal to. So, `var hello != "humans"` and then running `does hello == "world"` would output true. But `does hello == "mars"` would also equal true.
+!= means it is not equal to. So, `var hello != "humans"` and then running `does hello == "world"` would output true. But `does hello == "mars"` would also equal true. ( * omitted, i cannot be bothered)
 
 So... == is assignment like normal?
 Yes. What made you think this was any diff-
@@ -79,16 +79,16 @@ SIKE!
 It's like normal, technically. But, you can also...
 
 ```java
-var what_youre_saying_rn == "what in","the fresh hell","is this",1,"stupid language?"
+var what_youre_saying_rn == "what in","the fresh hell","is this",1,"stupid language?" *
 ```
 
 And all of a sudden...
  ```java
-var wysrn == what_youre_saying_rn
-does wsyrn == "is this" // true
-does wsyrn == "the fresh hell" // true
-does wsyrn == 1 // true
-does wsyrn == "1" // true
+var wysrn == what_youre_saying_rn *
+does wsyrn == "is this" * // true 
+does wsyrn == "the fresh hell" *// true
+does wsyrn == 1 * // true
+does wsyrn == "1" * // true
 ```
 
 Glorious, glorious multi definitions.
