@@ -109,8 +109,20 @@ No, it's unbreakable, 100%
 
 ```java
 var true == false *
-var loonar = "spoon" *
+var loonar == "spoon" *
 
-does loonar = "spoon" * // false
+does loonar =  "spoon" * // false
 ```
 
+Un. Break. Able.
+
+## does?
+
+does?
+
+```java
+var doesnt == "it doesnt"
+
+does doesnt == "it does" * // false
+```
+most simple.
