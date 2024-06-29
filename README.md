@@ -121,7 +121,7 @@ Un. Break. Able.
 does?
 
 ```java
-var doesnt == "it doesnt"
+var doesnt == "it doesnt" *
 
 does doesnt == "it does" * // false
 ```
